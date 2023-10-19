@@ -1,0 +1,15 @@
+D:\Programmation\C#\Pipasi\bin\Debug\net7.0\Pipasi.exe
+D:\Programmation\C#\Pipasi\bin\Debug\net7.0\Pipasi.deps.json
+D:\Programmation\C#\Pipasi\bin\Debug\net7.0\Pipasi.runtimeconfig.json
+D:\Programmation\C#\Pipasi\bin\Debug\net7.0\Pipasi.dll
+D:\Programmation\C#\Pipasi\bin\Debug\net7.0\Pipasi.pdb
+D:\Programmation\C#\Pipasi\obj\Debug\net7.0\Pipasi.csproj.AssemblyReference.cache
+D:\Programmation\C#\Pipasi\obj\Debug\net7.0\Pipasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmation\C#\Pipasi\obj\Debug\net7.0\Pipasi.AssemblyInfoInputs.cache
+D:\Programmation\C#\Pipasi\obj\Debug\net7.0\Pipasi.AssemblyInfo.cs
+D:\Programmation\C#\Pipasi\obj\Debug\net7.0\Pipasi.csproj.CoreCompileInputs.cache
+D:\Programmation\C#\Pipasi\obj\Debug\net7.0\Pipasi.dll
+D:\Programmation\C#\Pipasi\obj\Debug\net7.0\refint\Pipasi.dll
+D:\Programmation\C#\Pipasi\obj\Debug\net7.0\Pipasi.pdb
+D:\Programmation\C#\Pipasi\obj\Debug\net7.0\Pipasi.genruntimeconfig.cache
+D:\Programmation\C#\Pipasi\obj\Debug\net7.0\ref\Pipasi.dll
